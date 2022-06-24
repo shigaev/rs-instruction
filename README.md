@@ -19,7 +19,7 @@
 * rus.support.v2.production - боевой сайт rus.support
 * temp - бэкапы + папка rus.support.v2 в которой мы делаем `git pull`
 
-Для того, чтобы обновить боевой сайт rus.support нужно:
+### Для того, чтобы обновить боевой сайт rus.support нужно:
 
 1. Клонировать конкретную ветку - **production** рядом со своим локальным проектом командой `git clone --single-branch -b production http://192.168.15.169:3000/complete/rus.support.v2.git`
 2. Копировать папку **frontend** своего локального проекта в папку **frontend** клонированного с ветки **production** проекта
