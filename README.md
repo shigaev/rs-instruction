@@ -3,8 +3,14 @@
 
 ## Ветки:
 
-* develop - ветка для разработки, на ней лежит тестовый сайт [test.rus.support.v2](http://test.rus.support.v2/), а также старый сайт, на котором в данный момент работает только оплата по адресу [payments.rus.support](https://payments.rus.support/) и проверка статуса заявки [payments.rus.support/case-status](https://payments.rus.support/case-status)
+* develop - ветка для разработки, на ней лежит тестовый сайт [test.rus.support.v2](http://test.rus.support.v2/)
 * production - на ней лежит боевой [rus.support](https://rus.support)
+
+## Старый сайт rus.support
+На старом сайте в данный момент работает только оплата по адресу [payments.rus.support](https://payments.rus.support/) и проверка статуса заявки [payments.rus.support/case-status](https://payments.rus.support/case-status)
+
+Репозиторий: [old.rus.support](http://192.168.15.169:3000/complete/rus.support)  
+Изменения по кассе и по заявкам нужно производить именно в этом репо.
 
 ## Папки на сервере:
 
