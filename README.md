@@ -15,7 +15,7 @@
 ## Папки на сервере:
 
 Главная /rus.support.git в ней лежат еще три папки
-* rus.support.develop.production - старый сайт rus.support (касса, проверка статуса заявки)
+* rus.support.develop.production - тестовый сайт test.rus.support.v2
 * rus.support.v2.production - боевой сайт rus.support
 * temp - бэкапы + папка rus.support.v2 в которой мы делаем `git pull`
 
